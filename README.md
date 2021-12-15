@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @NathanAba
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+nathanaba/README.md
+
+Programar é poesia.
+Eu crio ideias e desenvolvo soluções em forma de software usando minha criatividade e meu conhecimento técnico em JavaScript construindo aplicações web com React
+
+Código limpo e compreensível, como um bom poema deve ser.
+
+⚡
