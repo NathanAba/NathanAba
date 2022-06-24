@@ -1,6 +1,6 @@
 ### Olá, eu sou o Nathan!👋😁
 
-- ⚡ Estou estudando React e React-Native e C#
+- ⚡ Estou estudando JavaScript e React.
 - 📫 Você pode entrar em contato: nathan.estudos10@gmail.com
 
 <div align= "center">
