@@ -1,7 +1,8 @@
 ### Olá, eu sou o Nathan!👋😁
 
-- ⚡ Estou estudando JavaScript e React.
+- ⚡ Estou estudando JavaScript.
 - 📫 Você pode entrar em contato: nathan.estudos10@gmail.com
+- Meu protifólio : https://nathanaba.github.io/portifolio-nathandev/
 
 <div align= "center">
   <a href="https://github.com/NathanAba">
